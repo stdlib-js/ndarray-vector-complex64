@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import Complex64Vector from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-vector-complex64@esm/index.mjs';
+import Complex64Vector from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-vector-complex64@v0.1.1-esm/index.mjs';
 ```
 
 #### Complex64Vector( \[options] )
@@ -164,7 +164,7 @@ import map from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-map@esm/index.mjs
 import realf from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-float32-real@esm/index.mjs';
 import imagf from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-float32-imag@esm/index.mjs';
 import Complex64 from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-float32-ctor@esm/index.mjs';
-import Complex64Vector from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-vector-complex64@esm/index.mjs';
+import Complex64Vector from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-vector-complex64@v0.1.1-esm/index.mjs';
 
 // Create a vector containing random values:
 var x = new Complex64Vector( discreteUniform( 20, 0, 100 ) );
