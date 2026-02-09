@@ -54,6 +54,11 @@ limitations under the License.
 To use in Observable,
 
 ```javascript
+Complex64Vector = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-vector-complex64@umd/browser.js' )
+```
+The previous example will load the latest bundled code from the umd branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/ndarray-vector-complex64/tags). For example,
+
+```javascript
 Complex64Vector = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-vector-complex64@v0.1.1-umd/browser.js' )
 ```
 
@@ -66,7 +71,7 @@ var Complex64Vector = require( 'path/to/vendor/umd/ndarray-vector-complex64/inde
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-vector-complex64@v0.1.1-umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-vector-complex64@umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -186,7 +191,7 @@ var len3 = numel( arr3 );
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/complex-float32-real@umd/browser.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/complex-float32-imag@umd/browser.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/complex-float32-ctor@umd/browser.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-vector-complex64@v0.1.1-umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-vector-complex64@umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
