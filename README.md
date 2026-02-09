@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import Complex64Vector from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-vector-complex64@deno/mod.js';
+import Complex64Vector from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-vector-complex64@v0.1.1-deno/mod.js';
 ```
 
 #### Complex64Vector( \[options] )
@@ -159,7 +159,7 @@ import map from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-map@deno/mod.js';
 import realf from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-float32-real@deno/mod.js';
 import imagf from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-float32-imag@deno/mod.js';
 import Complex64 from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-float32-ctor@deno/mod.js';
-import Complex64Vector from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-vector-complex64@deno/mod.js';
+import Complex64Vector from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-vector-complex64@v0.1.1-deno/mod.js';
 
 // Create a vector containing random values:
 var x = new Complex64Vector( discreteUniform( 20, 0, 100 ) );
