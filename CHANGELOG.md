@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-21)
+## Unreleased (2026-06-06)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`3116666`](https://github.com/stdlib-js/stdlib/commit/3116666b3e530b2e6fb161924ae4c43cdf02905b) - **docs:** correct TSDoc across `ndarray` TypeScript declarations [(#12635)](https://github.com/stdlib-js/stdlib/pull/12635) _(by Philipp Burckhardt, Athan Reines)_
 -   [`adb3e6a`](https://github.com/stdlib-js/stdlib/commit/adb3e6a9b5487a06a6f3c18e8d37650443248804) - **test:** use accessor functions _(by Athan Reines)_
 -   [`6d6b9d4`](https://github.com/stdlib-js/stdlib/commit/6d6b9d42d8904ca49fb55e2ca464780573886aa0) - **bench:** refactor to use string interpolation in `@stdlib/ndarray` [(#11446)](https:-/github.com/stdlib-js/stdlib/pull/11446) _(by Karan Anand)_
 
@@ -25,10 +26,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Karan Anand
+-   Philipp Burckhardt
 
 </section>
 
