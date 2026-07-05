@@ -222,6 +222,7 @@ console.log( v.get() );
 
 ## See Also
 
+-   <span class="package-name">[`@stdlib/ndarray-matrix/complex64`][@stdlib/ndarray/matrix/complex64]</span><span class="delimiter">: </span><span class="description">create a single-precision complex floating-point matrix (i.e., a two-dimensional ndarray).</span>
 -   <span class="package-name">[`@stdlib/ndarray-vector/float64`][@stdlib/ndarray/vector/float64]</span><span class="delimiter">: </span><span class="description">create a double-precision floating-point vector (i.e., a one-dimensional ndarray).</span>
 -   <span class="package-name">[`@stdlib/ndarray-vector/float32`][@stdlib/ndarray/vector/float32]</span><span class="delimiter">: </span><span class="description">create a single-precision floating-point vector (i.e., a one-dimensional ndarray).</span>
 -   <span class="package-name">[`@stdlib/ndarray-vector/int16`][@stdlib/ndarray/vector/int16]</span><span class="delimiter">: </span><span class="description">create a signed 16-bit integer vector (i.e., a one-dimensional ndarray).</span>
@@ -317,6 +318,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [@stdlib/ndarray/ctor]: https://github.com/stdlib-js/ndarray-ctor
 
 <!-- <related-links> -->
+
+[@stdlib/ndarray/matrix/complex64]: https://github.com/stdlib-js/ndarray-matrix-complex64
 
 [@stdlib/ndarray/vector/float64]: https://github.com/stdlib-js/ndarray-vector-float64
 
